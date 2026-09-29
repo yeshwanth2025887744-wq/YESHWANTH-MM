@@ -1,0 +1,6 @@
+{
+  "name": "Ring Pulse — Smart Access, IoT Automation & Care Ecosystem",
+  "description": "Comprehensive Ring IoT suite and hardware simulator covering access control, commercial security, smart automation routines, deaf/assistive accessibility, and caretaking wellness monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
